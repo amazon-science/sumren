@@ -1,18 +1,8 @@
-## My Project
+This re[psitory will contain the code used for creating the data and running the baseline in the paper:
 
-TODO: Fill this README out!
 
-Be sure to:
+[**SumREN: Summarizing Reported Speech about Events in News**](https://arxiv.org/abs/2212.01146)
 
-* Change the title in this README
-* Edit your repository description on GitHub
-* Write in your license below and create a LICENSE file
+Revanth Gangi Reddy, Heba Elfardy, Hou Pong Chan, Kevin Small, and Heng Ji, AAAI 2023.
 
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License
-
-This library is licensed under the LICENSE NAME HERE License.
-
+### Coming Soon
