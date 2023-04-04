@@ -84,8 +84,8 @@ python expand_eval.py
 This script generates `expanded_dev.json` and `expanded_test.json` which comprise the dev and test sets respectively with the news article text.
 
 
-If `expand_eval.py` that some files are missing from a particular year,
-this indicates that CC-News wasn't fully downloaded (i.e. some files are missing) for that year.
+If `expand_eval.py` outputs that some files are missing from a particular year,
+this indicates that CC-News wasn't fully downloaded (i.e. some files are missing) for this year.
 To resolve this, please re-run `download_cc.sh` and `map_cc.sh` for the year with the missing files.
 
 # License
