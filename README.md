@@ -90,5 +90,5 @@ To resolve this, please re-run `download_cc.sh` and `map_cc.sh` for the year wit
 
 # License
 
-The code is licensed under the license [here](LICENSE) and the data is 
+The code is licensed under the license [here](LICENSE.txt) and the data is 
 licensed under the license [here](data/LICENSE).
