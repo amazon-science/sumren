@@ -12,7 +12,7 @@ Please follow the steps below for installation:
 ```
 conda create --name sumren python=3.8.15
 conda activate sumren
-pip install -r requirements.txt
+python3 -m pip install -e .
 ```
 
 # Getting the data
