@@ -96,7 +96,7 @@ tokenizers==0.12.1
 tomli==2.0.1
 torch==1.13.1
 torchvision==0.13.1
-tqdm==4.64.1
+tqdm==4.66.3
 traitlets==5.9.0
 transformers==4.38.0
 typer==0.4.2
