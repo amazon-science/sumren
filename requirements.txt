@@ -98,7 +98,7 @@ torch==2.2.0
 torchvision==0.13.1
 tqdm==4.66.3
 traitlets==5.9.0
-transformers==4.38.0
+transformers==4.48.0
 typer==0.4.2
 typing_extensions==4.5.0
 urllib3==1.26.19
