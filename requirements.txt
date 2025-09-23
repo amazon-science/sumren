@@ -101,7 +101,7 @@ traitlets==5.9.0
 transformers==4.53.0
 typer==0.4.2
 typing_extensions==4.5.0
-urllib3==1.26.19
+urllib3==2.5.0
 wandb==0.12.21
 warcio==1.7.4
 wasabi==0.10.1
