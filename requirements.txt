@@ -94,7 +94,7 @@ tinysegmenter==0.3
 tldextract==3.4.0
 tokenizers==0.12.1
 tomli==2.0.1
-torch==2.2.0
+torch==2.8.0
 torchvision==0.13.1
 tqdm==4.66.3
 traitlets==5.9.0
