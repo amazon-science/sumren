@@ -19,7 +19,7 @@ exceptiongroup==1.1.0
 fairscale==0.4.6
 feedfinder2==0.0.4
 feedparser==6.0.10
-filelock==3.7.1
+filelock==3.20.3
 gitdb==4.0.10
 GitPython==3.1.41
 google-api-core==2.11.0
